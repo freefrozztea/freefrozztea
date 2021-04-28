@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Felipe Alzamora
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/freefrozztea/freefrozztea/main/presentationCard.png" width="8%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/freefrozztea/freefrozztea/main/presentationCard.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
 [![Linkedin: Felipe Alzamora](https://img.shields.io/badge/Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealzamora327/)](https://www.linkedin.com/in/felipealzamora327/)
