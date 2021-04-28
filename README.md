@@ -4,6 +4,8 @@
   <img src="https://raw.githubusercontent.com/freefrozztea/freefrozztea/main/presentationCard.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
+---
+
 [![Linkedin: Felipe Alzamora](https://img.shields.io/badge/Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealzamora327/)](https://www.linkedin.com/in/felipealzamora327/)
 [![GitHub: Felipe](https://img.shields.io/badge/Follow-black?logo=github&style=badge&logoColor=white)](https://github.com/freefrozztea)
 
