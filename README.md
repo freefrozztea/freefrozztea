@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Felipe Alzamora
 
 [![Linkedin: Felipe Alzamora](https://img.shields.io/badge/Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealzamora327/)](https://www.linkedin.com/in/felipealzamora327/)
+[![GitHub Felipe](https://img.shields.io/github/followers/Felipe?label=follow&style=social)](https://github.com/freefrozztea)
 
 ```javascript
 const aboutMe = {
