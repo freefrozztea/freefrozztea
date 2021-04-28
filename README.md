@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**freefrozztea/freefrozztea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Hi there
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
@@ -23,6 +20,11 @@ const aboutMe = {
    challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
 };
 ```
+
+<!--
+**freefrozztea/freefrozztea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
