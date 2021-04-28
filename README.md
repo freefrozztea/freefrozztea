@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin: Felipe Alzamora](https://img.shields.io/badge/linkedin-Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealzamora327/)](https://www.linkedin.com/in/felipealzamora327/)
+[![Linkedin: Felipe Alzamora](https://img.shields.io/badge/Felipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipealzamora327/)](https://www.linkedin.com/in/felipealzamora327/)
 
 ```javascript
 const aboutMe = {
