@@ -24,7 +24,7 @@ const aboutMe = {
       databases: ["Oracle Database", "mySQL", "SQLServer"]
    },
    currentOccupation: ["student, open for job opportunities"],
-   challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript",
+   challenge: "I am doing the #100DaysOfCode challenge focused on svelte and typescript",
 };
 ```
 
