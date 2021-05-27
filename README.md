@@ -38,9 +38,12 @@ const aboutMe = {
 [![GitHub: Felipe](https://img.shields.io/badge/Follow-black?logo=github&style=badge&logoColor=white)](https://github.com/freefrozztea)
 
 ---
+## My Github Stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=freefrozztea&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freefrozztea&theme=yeblu)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img align="left" src = "https://github-readme-stats.vercel.app/api?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
+</p>
 
 ---
 
