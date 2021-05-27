@@ -3,7 +3,7 @@
 # Hi there 👋 I'm Felipe Alzamora
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/freefrozztea/freefrozztea/main/presentationCard.png" width="80%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/freefrozztea/freefrozztea/main/presentationCard.png" width="80%" height="70vh" title="Intro Card" alt="Intro Card">
 </p>
 
 ---
