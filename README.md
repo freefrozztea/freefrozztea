@@ -13,22 +13,26 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, C, Swift],
+   code: [Javascript, HTML, CSS, Python, Java, C],
    technologies: {
       frontEnd: {
-         js: ["React", "Svelte", "Vue],
+         code: ["Svelte", "Vue"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
-         js: ["Node", "Express"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         code: ["Node", "Express"]
       },
       databases: ["Oracle Database", "mySQL", "SQLServer"]
    },
    currentOccupation: ["student, open for job opportunities"],
-   challenge: "I am doing the #100DaysOfCode challenge focused on svelte and typescript",
+   challenge: "I am focused on learning more about advanced Python.",
 };
+
+const aprendiendo = () => ['Typescript','Next.js', 'Flask', 'Django']
+
 ```
+
+
 
 ---
 
