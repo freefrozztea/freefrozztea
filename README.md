@@ -46,10 +46,11 @@ const aboutMe = {
 </p>
 
 ---
-
+<p align="center">
 ⭐️ From [@freefrozztea](https://github.com/freefrozztea)
 
 <p align="center"> <a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0172.gif" border="0" alt="linea-imagen-animada-0172" /></a> </p>
+</p>
 
 <!--
 **freefrozztea/freefrozztea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
