@@ -40,13 +40,11 @@ const aboutMe = {
 ---
 ## My Github Stats:
 <div align="center">
-<p align="center" height="256px">
+<p align="center">
   <img align="left" src = "https://github-readme-stats.vercel.app/api?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
 </p>
 <div>
-
----
 
 <p align="center"> <a href="https://www.gifsanimados.org/cat-lineas-562.htm"><img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0172.gif" border="0" alt="linea-imagen-animada-0172" /></a> </p>
 
