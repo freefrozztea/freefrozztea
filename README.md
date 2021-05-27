@@ -28,7 +28,7 @@ const aboutMe = {
    challenge: "I am focused on learning more about advanced Python.",
 };
 
-const aprendiendo = () => ['Typescript','Next.js', 'Flask', 'Django']
+const learning = () => ['Typescript','Next.js', 'Flask', 'Django']
 
 ```
 
