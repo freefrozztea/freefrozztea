@@ -40,7 +40,7 @@ const aboutMe = {
 ---
 ## My Github Stats:
 <div align="center">
-<p align="center" height="2rem">
+<p align="center" height="256px">
   <img align="left" src = "https://github-readme-stats.vercel.app/api?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freefrozztea&show_icons=true&title_color=E88795&icon_color=FF33FF&text_color=D6BCD5&bg_color=151515" />
 </p>
