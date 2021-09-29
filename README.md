@@ -16,7 +16,7 @@ const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, C],
    technologies: {
       frontEnd: {
-         code: ["Svelte", "Vue"],
+         code: ["Svelte", "Vue", "React"],
          css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
       },
       backEnd: {
